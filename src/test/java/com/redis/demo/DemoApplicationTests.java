@@ -104,6 +104,7 @@ public class DemoApplicationTests {
         String result = redisService.get("redis_list_test");
         List<String> list = jsonObject.parseArray(result, String.class);
         System.out.println(list);
+
     }
 
     @Test
