@@ -8,7 +8,7 @@ import java.util.Map;
  */
 public class StrategyFactory {
 
-    private static  StrategyFactory factory = new StrategyFactory();
+    private static StrategyFactory factory = new StrategyFactory();
 
 
     private StrategyFactory (){}
