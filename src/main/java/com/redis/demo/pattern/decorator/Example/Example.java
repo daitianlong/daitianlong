@@ -29,7 +29,7 @@ public class Example {
 
         // 煎饼加一个鸡蛋
 
-        //IPancake iPancake1 = new EggDecorator(iPancake);
+        // IPancake iPancake1 = new EggDecorator(iPancake);
         IPancake iPancake1 = new EggDecorator(new HamDecorator(new LettuceDecorator( new ConcretePancake())));
         iPancake1.cook();
     }
