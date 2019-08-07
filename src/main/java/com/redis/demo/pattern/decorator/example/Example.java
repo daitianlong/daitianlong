@@ -1,4 +1,4 @@
-package com.redis.demo.pattern.decorator.Example;
+package com.redis.demo.pattern.decorator.example;
 
 /**
  * 现在考虑这样一个场景，现在有一个煎饼摊，

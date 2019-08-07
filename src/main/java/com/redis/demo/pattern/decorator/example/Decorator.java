@@ -1,6 +1,4 @@
-package com.redis.demo.pattern.decorator.Example;
-
-import javax.swing.*;
+package com.redis.demo.pattern.decorator.example;
 
 /**
  * 装饰类

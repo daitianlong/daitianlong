@@ -1,4 +1,4 @@
-package com.redis.demo.pattern.decorator.Example;
+package com.redis.demo.pattern.decorator.example;
 
 /**
  * 具体给装饰类赋予职责

@@ -1,4 +1,4 @@
-package com.redis.demo.pattern.strategy.Example;
+package com.redis.demo.pattern.strategy.example;
 
 import java.util.HashMap;
 import java.util.Map;

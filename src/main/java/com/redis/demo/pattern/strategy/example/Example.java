@@ -1,7 +1,4 @@
-package com.redis.demo.pattern.strategy.Example;
-
-import com.sun.org.apache.bcel.internal.generic.RETURN;
-import javafx.beans.binding.DoubleExpression;
+package com.redis.demo.pattern.strategy.example;
 
 /**
  * 案例

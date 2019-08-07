@@ -1,4 +1,4 @@
-package com.redis.demo.pattern.decorator.Example;
+package com.redis.demo.pattern.decorator.example;
 
 public class LettuceDecorator extends Decorator {
 

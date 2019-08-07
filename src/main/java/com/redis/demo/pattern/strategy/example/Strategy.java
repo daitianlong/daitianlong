@@ -1,4 +1,4 @@
-package com.redis.demo.pattern.strategy.Example;
+package com.redis.demo.pattern.strategy.example;
 
 public interface Strategy {
 
