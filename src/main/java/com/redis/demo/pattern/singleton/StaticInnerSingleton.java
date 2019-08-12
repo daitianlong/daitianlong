@@ -6,8 +6,8 @@ package com.redis.demo.pattern.singleton;
 public class StaticInnerSingleton {
 
     // 1. 创建静态内部类
-   private static  class  StaticInnerSingleton2{
-       // 在静态内部类里创建单例
+    private static  class  StaticInnerSingleton2{
+        // 在静态内部类里创建单例
         private  static  StaticInnerSingleton staticInnerSingleton = new StaticInnerSingleton();
     }
 
