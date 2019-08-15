@@ -54,5 +54,9 @@ public interface RedisService {
      * @return
      */
     Long getExpire(String key);
+
+    //================================Map=================================
+
+
 }
 
