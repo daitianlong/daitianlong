@@ -83,7 +83,7 @@ public class CalAgeByCardNo {
 
     public static void main(String[] args) {
 
-        System.out.println(CalAgeByCardNo.getAgeByIDNumber("522122199212162016"));
+        System.out.println(CalAgeByCardNo.getAgeByIDNumber("xxxxxxx62016"));
 
     }
 
